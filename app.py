@@ -195,7 +195,7 @@ def clean_fig(fig, height=380):
     return fig
 
 # ── CABECERA ──────────────────────────────────────────────────────────────────
-st.markdown("# IA y Vida Estudiantil &mdash; Pakistan 2026", unsafe_allow_html=True)
+st.markdown("# Como la IA cambia la vida de los estudiantes &mdash; Pakistan 2026", unsafe_allow_html=True)
 st.markdown(
     "<p style='color:#64748b; margin-top:-4px;'>"
     "Análisis de herramientas de inteligencia artificial y su impacto en el rendimiento académico.</p>",
